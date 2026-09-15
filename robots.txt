@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ltdan1906.github.io/now-and-next-ai/sitemap.xml
